@@ -18,7 +18,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![HTML Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3.org%2Fhtml%2Flogo%2F&psig=AOvVaw0ljVvZy4Fxo6qTc7tPHPtH&ust=1610124983114000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCn2JGliu4CFQAAAAAdAAAAABAD?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-MySql-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![HTML Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-MySql-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 ### Tutorials
 
