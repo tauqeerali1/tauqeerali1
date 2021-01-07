@@ -9,9 +9,9 @@
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on **Software Development Internship**
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- 🤔 I’m looking for help with Backend Development.
+- 📫 How to reach me: tauqeer.ali.9934@gmail.com.
+- 😄 Pronouns: CoderOne, Tauqeer, He/His.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
