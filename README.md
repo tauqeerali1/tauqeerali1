@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Software Development Internship**
 - 🤔 I’m looking for help with Backend Development.
 - 📫 How to reach me: tauqeer.ali.9934@gmail.com.
-- 😄 Pronouns: Tauqeer, He/Him.
+- 😄 Pronouns: Ali Bhai, He/Him.
 - ⚡ Fun fact: I walk miles when i feel anxiety.
 
 #### Skill & Experience 
