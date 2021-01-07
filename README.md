@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on **Software Development Internship**
 - 🤔 I’m looking for help with Backend Development.
 - 📫 How to reach me: tauqeer.ali.9934@gmail.com.
-- 😄 Pronouns: CoderOne, Tauqeer, He/Him.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 😄 Pronouns: Tauqeer, He/Him.
+- ⚡ Fun fact: I walk miles when i feel anxiety.
 
 #### Skill & Experience 
 
