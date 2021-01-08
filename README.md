@@ -14,7 +14,7 @@
 - 😄 Pronouns: Ali Bhai.
 - ⚡ Fun fact: I walk miles when i feel anxiety.
 
-#### Skill & Experience 
+#### Top Technologies 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
