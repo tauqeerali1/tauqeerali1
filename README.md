@@ -18,8 +18,10 @@
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&labelColor=black&logo=html5&logoColor=#FF7F50)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Mysql Badge](https://img.shields.io/badge/-MySql-FF00FF?style=for-the-badge&labelColor=black&logo=mysql&logoColor=#FF00FF)](#) [![Nodejs Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=php&logoColor=3C873A)](#)
 
-#### Profile Visits
+#### Github Stats
 
-(https://visitor-badge.glitch.me/badge?page_id=tauqeerali1.tauqeerali1)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=tauqeerali1&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
 
 
