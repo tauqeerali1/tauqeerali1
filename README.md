@@ -6,7 +6,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tauqeerali01)](https://twitter.com/tauqeerali01)  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauqeer-ali-288a27190/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/___tauqeer_ali___/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tauqeer.ali.9934@gmail.com)
 
-<!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on **Software Development Internship**
 - 🤔 I’m looking for help with Backend Development.
@@ -16,9 +15,8 @@
 
 #### Top Technologies 
 
-<!-- TODO: Make technologies links takes you to repositories -->
 
-[![HTML Badge](https://img.shields.io/badge/-HTML-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-MySql-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML-3C873A?style=for-the-badge&labelColor=black&logo=HTML&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-MySql-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 #### Profile Visits
 
