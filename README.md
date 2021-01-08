@@ -20,6 +20,6 @@
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tauqeerali1.tauqeerali1)
+(https://visitor-badge.glitch.me/badge?page_id=tauqeerali1.tauqeerali1)
 
 
