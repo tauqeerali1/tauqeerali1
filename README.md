@@ -20,7 +20,7 @@
 
 #### Github Stats
 
-![tauqeerali1's github stats- https://github.githubassets.com/images/icons/emoji/unicode/2714.png ](https://github-readme-stats.vercel.app/api?username=tauqeerali1&count_private=true&theme=tokyonight&hide=contribs,prs)
+![tauqeerali1's github stats ](https://github-readme-stats.vercel.app/api?username=tauqeerali1&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
