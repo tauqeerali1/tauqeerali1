@@ -20,7 +20,7 @@
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=tauqeerali1&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats heavy_check_mark ](https://github-readme-stats.vercel.app/api?username=tauqeerali1&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
