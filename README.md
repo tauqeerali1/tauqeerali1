@@ -16,7 +16,7 @@
 #### Top Technologies 
 
 
-[![HTML Badge](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&labelColor=black&logo=html5&logoColor=#FF7F50)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-MySql-007acc?style=for-the-badge&labelColor=black&logo=mysql&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=php&logoColor=3C873A)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&labelColor=black&logo=html5&logoColor=#FF7F50)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-MySql-008B8B?style=for-the-badge&labelColor=black&logo=mysql&logoColor=#008B8B)](#) [![Nodejs Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=php&logoColor=3C873A)](#)
 
 #### Profile Visits
 
