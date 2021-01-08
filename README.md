@@ -20,8 +20,5 @@
 
 #### Github Stats
 <a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=tauqeerali1&show_icons=true&line_height=24&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" /> </a>
-![tauqeerali1's github stats ](https://github-readme-stats.vercel.app/api?username=tauqeerali1&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
 
 
