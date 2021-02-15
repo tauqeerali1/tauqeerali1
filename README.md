@@ -23,6 +23,6 @@
 #### Github Stats
 <a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=tauqeerali1&show_icons=true&line_height=24&theme=tokyonight&count_private=true" /> </a>
 
-
+![about](https://user-images.githubusercontent.com/62496930/107969634-060afd00-6fd6-11eb-83d1-a923058f42f9.gif)
 
 
