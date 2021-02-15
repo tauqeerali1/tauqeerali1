@@ -8,6 +8,7 @@
 
 
 <img align="right" src="/about.gif"  height="auto" width="40%">
+![about](https://user-images.githubusercontent.com/62496930/107969634-060afd00-6fd6-11eb-83d1-a923058f42f9.gif)
 - 🔭 I’m currently working on **Software Development Internship**.
 - 🤔 I’m looking for help with Backend Development.
 - 📫 How to reach me: tauqeer.ali.9934@gmail.com.
