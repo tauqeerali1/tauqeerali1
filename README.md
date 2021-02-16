@@ -23,7 +23,7 @@
 ---
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/tauqeerali1/tauqeerali1/blob/main/Tauqeer%20Resume.pdf)
 - :email: tauqeer.ali.9934@gmail.com
 
  <details>
