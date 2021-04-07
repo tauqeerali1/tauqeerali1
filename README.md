@@ -21,6 +21,7 @@
 
 ---
 [![Tauqeer's github activity graph](https://activity-graph.herokuapp.com/graph?username=tauqeerali1&theme=xcode)](https://git.io/tauqeerali1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tauqeerali1)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/tauqeerali1/tauqeerali1/blob/main/Tauqeer%20Resume.pdf)
