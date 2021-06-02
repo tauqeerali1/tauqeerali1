@@ -20,7 +20,7 @@
 [![HTML Badge](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&labelColor=black&logo=html5&logoColor=#FF7F50)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Mysql Badge](https://img.shields.io/badge/-MySql-FF00FF?style=for-the-badge&labelColor=black&logo=mysql&logoColor=#FF00FF)](#) [![Nodejs Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=php&logoColor=3C873A)](#)
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tauqeerali1)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ---
 
 #### Business
