@@ -21,8 +21,6 @@
 
 ---
 
----
-
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/tauqeerali1/myresume/blob/main/Resume.pdf)
 - :email: tauqeer.ali.9934@gmail.com
