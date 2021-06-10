@@ -19,7 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauqeerali1&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
 
   <br/>
-  <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
 
 </details>
