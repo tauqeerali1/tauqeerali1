@@ -11,7 +11,7 @@
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/tauqeerali1/myresume/blob/main/Resume.pdf)
-- :paperclip: [Mail](tauqeer.ali.9934@gmail.com)
+- :paperclip: [tauqeer.ali.9934@gmail.com](tauqeer.ali.9934@gmail.com)
 
  <details>
   <summary>:zap: GitHub Stats</summary>
