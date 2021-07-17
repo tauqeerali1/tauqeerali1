@@ -10,7 +10,7 @@
 ---
 
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/tauqeerali1/tauqeerali1.github.io/blob/main/assets/TauqeerAli_Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/tauqeerali1/tauqeerali1.github.io/blob/main/assets/Tauqeer_Ali_Resume.pdf)
 - :email: [tauqeer.ali.9934@gmail.com](tauqeer.ali.9934@gmail.com)
 
  <details>
