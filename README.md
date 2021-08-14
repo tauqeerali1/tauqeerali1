@@ -4,7 +4,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tauqeerali01)](https://twitter.com/tauqeerali01)  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauqeer-ali-288a27190/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/___tauqeer_ali___/) [![Stackoverflow Badge](https://img.shields.io/badge/Medium-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/21062494/tauqeer-ali)
+[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tauqeerali01)](https://twitter.com/tauqeerali01)  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauqeer-ali-288a27190/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/___tauqeer_ali___/) [![Medium Badge](https://img.shields.io/badge/Medium-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/21062494/tauqeer-ali)
 
 ---
 
