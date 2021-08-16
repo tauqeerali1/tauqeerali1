@@ -1,6 +1,6 @@
 ## Hi I'm Tauqeer Ali <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-*I'm Tauqeer Ali a Full Stack Web Developer studing in SRM Institute of Science and Technology.I have a passion for learning and sharing my knowledge with others as publicly as possible. Feel free to reach out in case you want to just get in touch also*.
+*I'm Tauqeer Ali a Full Stack Web Developer studing in SRM Institute of Science and Technology. Feel free to reach out in case you want to just get in touch also*.
 
 :mailbox: Reach me out!
 
