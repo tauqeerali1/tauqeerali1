@@ -1,6 +1,6 @@
 ## Hi I'm Tauqeer Ali 
 
-
+*Feel free to reach out in case you want to just get in touch also*.
 
 :mailbox: Reach me out!
 
