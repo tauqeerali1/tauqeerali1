@@ -1,6 +1,6 @@
 ## Hi I'm Tauqeer Ali 
 
-*Feel free to reach out in case you want to just get in touch also*.
+*I'm Tauqeer Ali a Full Stack Web Developer studying in SRM Institute of Science and Technology. Feel free to reach out in case you want to just get in touch also*.
 
 :mailbox: Reach me out!
 
