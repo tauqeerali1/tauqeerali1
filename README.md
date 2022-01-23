@@ -14,6 +14,9 @@
 - :email: [tauqeer.ali.9934@gmail.com](tauqeer.ali.9934@gmail.com)
 
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 </details>
 </details>
