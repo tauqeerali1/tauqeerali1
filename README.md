@@ -1,4 +1,4 @@
-## Hi, I'm [Tauqeer Ali](https://tauqeerali1.github.io/)
+## Hi, I'm [Tauqeer Ali](https://tauqeerali1.github.io/) <span style="color: red;">text</span>
 
 *I'm Tauqeer Ali a Full Stack Web Developer studying in SRM Institute of Science and Technology. Feel free to reach out in case you want to just get in touch also*.
 
