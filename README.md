@@ -1,7 +1,7 @@
 ## Hi, I'm [Tauqeer Ali](https://tauqeerali1.github.io/)
 
 
-*I'm Tauqeer Ali a Software Developer Graduate from SRM Institute of Science and Technology. Feel free to reach out in case you want to just get in touch also*.
+*I'm Tauqeer Ali a Software Engineer Graduate from SRM Institute of Science and Technology. Feel free to reach out in case you want to just get in touch also*.
 
 :mailbox: Reach me out!
 
